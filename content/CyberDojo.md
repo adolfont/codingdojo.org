@@ -14,9 +14,7 @@ dojos. I enjoyed them but noticed it often took a long time to install
 the necessary compilers onto some of the laptops. It occurred to me that
 it should be possible to run a code-dojo entirely within a browser -
 write your code and tests inside a simple web-based editor, submit
-everything to the server whenever you like, the server would run your
-tests for you and return the outcome - green if they all passed, red if
-some failed, yellow if there was a syntax error. As I thought about it I
+everything to the server whfgsdswsfdgs I thought about it I
 realized that this format also offered several extra possibilities. For
 example, if someone had to leave early and take their laptop with them,
 another laptop could instantly substitute for it. So I've written a
